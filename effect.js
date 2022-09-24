@@ -13,7 +13,7 @@ $('document').ready(function(){
 			$('#b44').animate({top:240, left: vw-50},500);
 			$('#b55').animate({top:240, left: vw+50},500);
 			$('#b66').animate({top:240, left: vw+150},500);
-			$('#b77').animate({top:240, left: vw+250},500);
+			// $('#b77').animate({top:240, left: vw+250},500);
 		});
 
 	$('#turn_on').click(function(){
